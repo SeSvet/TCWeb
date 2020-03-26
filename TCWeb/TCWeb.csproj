@@ -5,6 +5,8 @@
     <Configurations>Debug;Release;Delpoyment</Configurations>
   </PropertyGroup>
 
+  <ProjectExtensions><VisualStudio><UserProperties properties_4launchsettings_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>
+
 
 
 </Project> 
